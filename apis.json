@@ -1,0 +1,44 @@
+{
+    "name": "FamilySearch",
+    "description": "FamilySearch is a genealogy organization operated by The Church of Jesus Christ of Latter-day Saints.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28953-www-familysearch-org.jpg",
+    "tags": [
+        "geneology",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/familysearch\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FamilySearch",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28953-www-familysearch-org.jpg",
+            "humanURL": "https:\/\/www.familysearch.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/familysearch-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/familysearch"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FamilySearch"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.familysearch.org"
+        }
+    ]
+}
